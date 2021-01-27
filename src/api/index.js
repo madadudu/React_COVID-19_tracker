@@ -1,19 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-//https://www.youtube.com/watch?v=khJlrj3Y6Ls
-
-
-
-
-
 import axios from 'axios';
 
 const url = 'https://covid19.mathdro.id/api';
